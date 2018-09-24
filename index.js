@@ -15,5 +15,5 @@ function currentLine(line){
     }
     return str
   }
-  else return "There is nobody waiting to be served!"
+  else return "The line is currently empty."
 }
